@@ -62,12 +62,18 @@ Container çalıştırıldıktan sonra http://localhost:8080 adresi üzerinden e
 
 ##### 📁 Proje Dosya Yapısı
 Dosya/Klasör	Açıklama
-README.md	    Projenin genel tanımı, çalıştırma ve kurulum yönergeleri
-LICENSE	MIT     Lisans bildirimi
-server.py	    Sunucunun tüm Python kodları
-Dockerfile	    Docker container yapılandırma dosyası
-.dockerignore	Docker imajına dahil edilmemesi gereken dosyaların listesi
-static/	        Statik içerikler (HTML/CSS/JS) klasörü
+
+README.md	    :  Projenin genel tanımı, çalıştırma ve kurulum yönergeleri
+
+LICENSE	MIT   :  Lisans bildirimi
+
+server.py	    :  Sunucunun tüm Python kodları
+
+Dockerfile	  :  Docker container yapılandırma dosyası
+
+.dockerignore :	 Docker imajına dahil edilmemesi gereken dosyaların listesi
+
+static/	      :  Statik içerikler (HTML/CSS/JS) klasörü
 
 #### 📝 Ek Açıklamalar
 Projede socket programlama temel alınmış, http.server gibi hazır Python modülleri dahi kullanılmamıştır.
