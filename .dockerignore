@@ -1,0 +1,22 @@
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Git versiyon kontrol klasörü
+.git/
+.gitignore
+
+# Docker dışı editör dosyaları
+.vscode/
+*.swp
+*.swo
+
+# Çalışma dosyaları
+*.log
+*.tmp
+*.bak
+
+# OS özel dosyalar
+.DS_Store
+Thumbs.db
