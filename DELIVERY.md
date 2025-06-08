@@ -53,7 +53,8 @@ Sunucu uygulaması container içinde `/app` klasöründe çalışmaktadır ve 80
 
 #### Kullanılan Komutlar:
 
-docker build -t my-http-server .
+docker build -t my-http-server .,
+
 docker run -d -p 8080:8080 my-http-server
 
 #### Test:
