@@ -63,10 +63,7 @@ basic-http-server/
 ├── static/
 │   └── index.html
 ├── README.md
-├── LICENSE (opsiyonel)
-├── CONTRIBUTING.md (opsiyonel)
-├── CODE_OF_CONDUCT.md (opsiyonel)
-└── NOTICE.md (opsiyonel)
+├── LICENSE 
 ```
 
 ---
